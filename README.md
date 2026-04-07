@@ -16,7 +16,7 @@ Next step:
 ## Setup
 
 ```bash
-cd /Users/fangfei/Desktop/codex-fei/experience/mini-cli-agent
+cd mini-cli-agent
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
